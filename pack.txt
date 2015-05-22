@@ -1,2 +1,2 @@
 Vattic's Faithful 32x32 pack
-for Minecraft 1.5
+for FTB 1.5.2
